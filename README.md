@@ -21,4 +21,9 @@ Install paho mqtt first and then run the python script. Before running first set
 <h2>Usages</h2>
 Displays the latest sensor data values received from all the sensors of a specified environmental station. We can view the last five hurs data by selecting timeline window to show last five hours data.
 
+<h2>Station One</h2>
+<img width="958" alt="stationonedashboard" src="https://user-images.githubusercontent.com/42312685/231639430-d35cce16-0c46-4a50-bb22-78438233a1a5.png">
+
+<h2>Station Two</h2>
+<img width="950" alt="stationseconddashboard" src="https://user-images.githubusercontent.com/42312685/231639489-10f5444c-6721-479a-a03b-12855ceaefe5.png">
 
